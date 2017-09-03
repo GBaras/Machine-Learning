@@ -1,6 +1,6 @@
 # Machine-Learning
 
-##This project contains example implementations of the most popular ML algorithms using real datasets.
+This project contains example implementations of the most popular ML algorithms using real datasets.
 1. Linear Regression
 2. Logistic regression
 3. K-Nearest Neighbors
