@@ -5,5 +5,5 @@ This project contains example implementations of the most popular ML algorithms 
 2. Logistic regression
 3. K-Nearest Neighbors
 4. Decision Trees & Random Forests
-5. Support Vector machines
+5. Support Vector Machines
 6. K-Means Clustering
