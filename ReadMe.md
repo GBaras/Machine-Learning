@@ -5,6 +5,6 @@ This project contains examples of the most popular Machine Learning algorithms i
 1. Linear Regression
 2. Logistic regression
 3. K-Nearest Neighbors
-4. Decision Trees & Random Forests
-5. Support Vector Machines
-6. K-Means Clustering
+4. Support Vector Machines
+5. K-Means Clustering
+6. Decision Trees & Random Forests
